@@ -1,7 +1,7 @@
 # - File Rename Bot
 
 <p align="center">
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/stargazers">
+  <a href="https://github.com/Kingmaker003/Renamerbot/stargazers">
     <img src="https://img.shields.io/github/stars/No-OnE-Kn0wS-Me/FileRenameBot?style=social">
 
   </a>
